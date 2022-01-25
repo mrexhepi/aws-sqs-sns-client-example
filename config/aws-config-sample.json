@@ -1,0 +1,7 @@
+
+{ 
+    "_comment":"NEVER PUSH CREDENTIALS INFO INTO A REPOSITORY",
+    "accessKeyId": "MREXHEPI",
+    "secretAccessKey": "MREXHEPI",
+    "region": "us-east-1"
+}
