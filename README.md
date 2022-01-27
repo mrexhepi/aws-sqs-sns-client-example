@@ -47,7 +47,7 @@ clone the repo and install modules:
 
 ```
 git clone https://github.com/mrexhepi/aws-sqs-sns-client-localstack-example.git
-aws-sqs-sns-client-localstack-example
+cd aws-sqs-sns-client-localstack-example
 npm install
 ```
 
